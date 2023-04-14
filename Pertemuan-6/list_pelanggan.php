@@ -17,7 +17,7 @@ $rs = $dbh->query($sql);
             <th>Tempat Lahir</th>
             <th>Tanggal Lahir</th>
             <th>Email</th>
-            <th>Jenis Kelamin</th>
+            <th>Kartu</th>
             <th>Action</th>
         </tr>
     </thead>
